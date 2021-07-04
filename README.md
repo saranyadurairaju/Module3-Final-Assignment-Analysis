@@ -130,15 +130,23 @@ Below is the Candidates details with their corresponding number of Votes and Per
 
 * Diana DeGette got a maximum number of votes, with 73.8% and 272,892 in total.
 
-#### The Winner of the Election
+### The Winner of the Election
 
-So from the above percentage and total number of Votes, its clear that **Diana DeGette** won the Election and **Denver** county had a maximum Votes.
+_From the above percentage and total number of Votes, its clear that **Diana DeGette** won the Election and **Denver** county had a maximum Votes._
  
 	Winner: Diana DeGette
 	Winning Vote Count: 272,892
 	Winning Percentage: 73.8% 	
 
 The complete Election Audit results will be printed in the Terminal. Also, the same results will be saved in **election_analysis.txt** file in "analysis" folder.
+
+**The Election Results Saved to a Text File**
+
+![PyPoll_election_analysis](https://github.com/saranyadurairaju/Module3-Final-Assignment-Analysis/blob/main/analysis/election_analysis.txt)
+
+
+
+**The Election Results Printed to the Command Line**
 
 ![PyPoll_Challenge_Terminal](https://github.com/saranyadurairaju/Module3-Final-Assignment-Analysis/blob/main/PyPoll_Challenge_Terminal.png)
 
